@@ -29,7 +29,8 @@
     "php": "~5.4|~7.0",
     "ext-mbstring": "*",
     "ext-json": "*",
-    "ext-iconv": "*"
+    "ext-iconv": "*",
+    "zoujingli/ip2region": "^1.0"
   },
   "autoload": {
     "psr-4": {
