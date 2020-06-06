@@ -1,3 +1,13 @@
+# 免费的 IP 信息查询平台
+```
+http://ip.stamhe.com
+http://ip.stamhe.com?ip=
+
+基于 https://github.com/itbdw/ip-database 项目修改，感谢原作者的贡献。
+```
+
+
+
 # 免费IP数据库 (纯真IP库，已经格式为国家、省、市、县、运营商)
 
 此工具基于纯真 IP 库，并且把非结构化的数据结构化。
