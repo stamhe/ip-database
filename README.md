@@ -7,7 +7,7 @@ https://ip.stamhe.com/1.1.1.1
 
 命令行:
 curl ip.stamhe.com
-curl ip.stamhe.com/8.8.8
+curl ip.stamhe.com/8.8.8.8
 
 基于 https://github.com/itbdw/ip-database 项目修改，感谢原作者的贡献。
 感谢 https://github.com/out0fmemory/qqwry.dat 项目提供纯真原始库
